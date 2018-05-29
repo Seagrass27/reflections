@@ -20,6 +20,7 @@ could choose what files in the directory to be finally committed.
 How can you use the staging area to make sure you have one commit per 
 logical change?
 
+We can use command git diff with no argument to see what changes we made on the files in working directory, which is the difference between staging area and working directory. Once we make sure that we did a logical change as expected, we can add this change to staging area then commmit it to repository (we can also see the differentce between staging area and repository by command git diff --staged).
 
 
 
