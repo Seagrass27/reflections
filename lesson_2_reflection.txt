@@ -30,9 +30,10 @@ history organized? How would branches help?
 If we want to try out some features, or make a new version of the file without affecting the original file, branches could be helpful. In this way we just need to switch between branches to see how they work.
 
 
+
 How do the diagrams help you visualize the branch structure?
 
-
+We can use command git log --graph [--oneline] to see the log history with a graph. With this these diagram, we can clearly see when and where a new branch was created and how it is developed, as well as its relationship with the master and other branch.  
 
 
 What is the result of merging two branches together? Why do we represent 
