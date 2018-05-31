@@ -43,5 +43,7 @@ One branch will be merged into the other. If one of the two branches is master, 
 
 
 
-What are the pros and cons of Git's automatic merging vs. always doing 
-merges manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging could be quite efficient when we merge branches only with small differences, it would save us some time and effort. When two branches made changes on the same part of lines, manually merging will be required since Git doesn't know how to deal with it.
+
