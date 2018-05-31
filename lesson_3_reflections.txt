@@ -8,10 +8,9 @@ Sometimes remote is updated by others and we are not sure if we want those new c
 
 
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+Forking is to copy someone else's repository to your repository on GitHub, that happends on GitHub all through. Cloning is to copy your repository on GitHub to your local machine or to copy a repository on your machine to another spot on your machine. Branch is just a label for commits, and also the unit you operate on when conducting push, pull.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
