@@ -21,7 +21,7 @@ We can have up-to-date information about what changes have been made on the remo
 
 Without Git and if we are working on a group project, whenever a group member made some change, he needs to send a copy to everyone else, probably by email, and people could talk about it in a group chat and decide if they put this change into the main body of the work, which is quite inefficient and complicated.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+6.When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+When multiple people collaborating on the same project, it will be messy if every one of them frequently updates the master branch given that master branch is the main part of a project and supposed to be treated cautiously. With the idea of pull request comes in, this problem is well addressed by adding a intermediate step before merging changes to master branch.
+
