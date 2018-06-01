@@ -17,10 +17,9 @@ Forking is to copy someone else's repository to your repository on GitHub, that 
 We can have up-to-date information about what changes have been made on the remote repository, and take those changes into account when we build our own branch, in order to merge these two branches later.
 
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+5.How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+Without Git and if we are working on a group project, whenever a group member made some change, he needs to send a copy to everyone else, probably by email, and people could talk about it in a group chat and decide if they put this change into the main body of the work, which is quite inefficient and complicated.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
